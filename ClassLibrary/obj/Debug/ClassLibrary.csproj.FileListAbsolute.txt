@@ -1,0 +1,6 @@
+C:\Users\Nevzat AĞIL\source\repos\EmlakOtomasyon\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Nevzat AĞIL\source\repos\EmlakOtomasyon\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Nevzat AĞIL\source\repos\EmlakOtomasyon\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Nevzat AĞIL\source\repos\EmlakOtomasyon\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nevzat AĞIL\source\repos\EmlakOtomasyon\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Nevzat AĞIL\source\repos\EmlakOtomasyon\ClassLibrary\obj\Debug\ClassLibrary.pdb

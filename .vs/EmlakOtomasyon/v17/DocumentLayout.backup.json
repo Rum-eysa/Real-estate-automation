@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|c:\\users\\nevzat a\u011Fil\\source\\repos\\emlakotomasyon\\windows forms application\\kayitform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\kayitform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\windows forms application\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|c:\\users\\nevzat a\u011Fil\\source\\repos\\emlakotomasyon\\windows forms application\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|c:\\users\\nevzat a\u011Fil\\source\\repos\\emlakotomasyon\\windows forms application\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|c:\\users\\nevzat a\u011Fil\\source\\repos\\emlakotomasyon\\windows forms application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C1762-47F6-4D13-9D2A-534B79EAE771}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\classlibrary\\satilikev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C1762-47F6-4D13-9D2A-534B79EAE771}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\satilikev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C1762-47F6-4D13-9D2A-534B79EAE771}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\classlibrary\\ev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C1762-47F6-4D13-9D2A-534B79EAE771}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|c:\\users\\nevzat a\u011Fil\\source\\repos\\emlakotomasyon\\windows forms application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C1762-47F6-4D13-9D2A-534B79EAE771}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\classlibrary\\kiralikev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C1762-47F6-4D13-9D2A-534B79EAE771}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\kiralikev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\windows forms application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\windows forms application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|c:\\users\\nevzat a\u011Fil\\source\\repos\\emlakotomasyon\\windows forms application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C317-70BC-45B6-9D27-CE67ACC16160}|Windows Forms Application\\WindowsFormsApplication.csproj|solutionrelative:windows forms application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 249,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KayitForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\KayitForm.Designer.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\KayitForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\KayitForm.Designer.cs*",
+              "RelativeToolTip": "Windows Forms Application\\KayitForm.Designer.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAArwHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:09:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KayitForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\KayitForm.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\KayitForm.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\KayitForm.cs",
+              "RelativeToolTip": "Windows Forms Application\\KayitForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:38:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KayitForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\KayitForm.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\KayitForm.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\KayitForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Windows Forms Application\\KayitForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:56:58.204Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\MainForm.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\MainForm.cs",
+              "RelativeToolTip": "Windows Forms Application\\MainForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:21:26.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\MainForm.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Windows Forms Application\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:14:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\LoginForm.cs",
+              "RelativeToolTip": "Windows Forms Application\\LoginForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:10:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\Program.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\Program.cs",
+              "RelativeToolTip": "Windows Forms Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:52:54.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SatilikEv.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\ClassLibrary\\SatilikEv.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\SatilikEv.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\ClassLibrary\\SatilikEv.cs",
+              "RelativeToolTip": "ClassLibrary\\SatilikEv.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:35:10.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KiralikEv.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\ClassLibrary\\KiralikEv.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\KiralikEv.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\ClassLibrary\\KiralikEv.cs",
+              "RelativeToolTip": "ClassLibrary\\KiralikEv.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:34:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ev.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\ClassLibrary\\Ev.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Ev.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\ClassLibrary\\Ev.cs",
+              "RelativeToolTip": "ClassLibrary\\Ev.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:14:34.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Windows Forms Application\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:13:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Windows Forms Application\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Nevzat A\u011EIL\\source\\repos\\EmlakOtomasyon\\Windows Forms Application\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Windows Forms Application\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:32:21.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
